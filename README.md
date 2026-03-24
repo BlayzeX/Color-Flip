@@ -12,7 +12,7 @@ A simple interactive app that changes the background color with a single click.
 - Vanilla JavaScript
 
 ## Preview
-![Background Switcher Preview](preview.png)
+![Background Switcher Preview](priview.png)
 
 ## How It Works
 Click any color button → background changes instantly.
